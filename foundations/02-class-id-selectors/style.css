@@ -1,0 +1,16 @@
+p{
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+div {
+    color: #0000ff;
+    font-size: 36px;
+}
+.style {
+    font-size: 24px;
+}
+.for {
+    background-color: rgba(0, 200, 0, 0.4);
+    font-size: 24px;
+    font-weight: bold;
+}

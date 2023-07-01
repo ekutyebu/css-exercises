@@ -1,0 +1,12 @@
+img {
+    width: auto;
+    height: 200px;
+}
+.avatar{
+    width: auto;
+    height: 150px;
+}
+.avatar.distorted {
+    width: 100px;
+    height: 220px;
+}
